@@ -1,0 +1,37 @@
+~~~
+title: Example Jot
+description: Just need to show some stuff offs
+section: example/idea
+tags: example, notes, quick access
+extra: personal meta info
+~~~
+
+[example](https://example.com)
+![alt text](example.png)
+
+- normal lists
+- some other lists
+    1. indent list
+    1. second item
+- another item
+
+here's *just* a _normal_ paragraph with **some** fancy ***formats***
+
+1. asdf
+2. efhi
+    1. jklm
+        * subpoint
+    2. nopq
+* hello
+* another
+
+paragraph surrounding it
+
+> i'm gonna block quoate all
+this shouuld stay inside it?
+> this stuff, lets see how
+> it gets wrapped
+and this too
+> - albert
+
+and on this side too
